@@ -1,4 +1,4 @@
-##Twitter Sentiment Analysis
+## Twitter Sentiment Analysis
 Üzərində işlənilən Kaggle dataseti - https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 Dataset haqqında məlumat:
